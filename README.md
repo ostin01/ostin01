@@ -1,7 +1,6 @@
 # Hi,I'm Austin <img src="https://emojipedia-us.s3.amazonaws.com/source/noto-emoji-animations/344/waving-hand_1f44b.gif" alt="gif" width="30"/>
 #  About Me:
-I'm a Frontend Developer with a keen attention to details<br><br> I’m currently learning more about React Native.<br> I’m looking to collaborate on React Native projects.<br> Ask me about Frontend or any tech-related stuff.
-
+I'm a Frontend Developer with a keen attention to details.<br> I’m looking to collaborate on Frontend projects.
 
 ## 🌐 Socials:
 [![Twitter](https://img.shields.io/badge/Twitter-%231DA1F2.svg?logo=Twitter&logoColor=white)](https://twitter.com/theFrontenddGuy) 
